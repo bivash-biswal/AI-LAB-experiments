@@ -8,9 +8,9 @@ This repository contains implementation of classic Artificial Intelligence algor
 
 | Experiment | Title | Description | Code & Outputs |
 | :---: | :--- | :--- | :---: |
-| **01** | **Breadth First Search (BFS)** | Graph traversal using BFS exploring neighbor nodes level by level using Queue. | [View Code](AI_LAB_EXPT/EXPT1/expt1.ipynb) |
-| **02** | **Depth First Search (DFS)** | Graph traversal using DFS exploring deeply along each branch using recursion/Stack. | [View Code](AI_LAB_EXPT/EXPT2/expt2.ipynb) |
-| **03** | **Best First Search** | Heuristic informed search selecting the most promising node based on evaluation. | [View Code](AI_LAB_EXPT/EXPT3/expt3.ipynb) |
+| **01** | **Breadth First Search (BFS)** | Graph traversal using BFS exploring neighbor nodes level by level using Queue. | [View Code](AI_LAB_EXPT/EXPT1/expt1.ipynb) · [Output](AI_LAB_EXPT/EXPT1/Output_1.jpeg) |
+| **02** | **Depth First Search (DFS)** | Graph traversal using DFS exploring deeply along each branch using recursion/Stack. | [View Code](AI_LAB_EXPT/EXPT2/expt2.ipynb) · [Output](AI_LAB_EXPT/EXPT2/Output_2.jpeg) |
+| **03** | **Best First Search** | Heuristic informed search selecting the most promising node based on evaluation. | [View Code](AI_LAB_EXPT/EXPT3/expt3.ipynb) · [Output](AI_LAB_EXPT/EXPT3/Output_3.jpeg) |
 | **04** | **A\* Search Algorithm** | Optimal path finding using path cost $g(n)$ and heuristic cost $h(n)$. | [View Code](AI_LAB_EXPT/EXPT4/expt4.ipynb) · [Output](AI_LAB_EXPT/EXPT4/Output_4.jpeg) |
 | **05** | **Minimax Algorithm** | Decision-making algorithm for two-player zero-sum adversarial games. | [View Code](AI_LAB_EXPT/EXPT5/expt5.ipynb) · [Output](AI_LAB_EXPT/EXPT5/Output_5.jpeg) |
 | **06** | **Alpha-Beta Pruning** | Optimization technique for the minimax algorithm to prune unneeded branches. | [View Code](AI_LAB_EXPT/EXPT6/expt6.ipynb) · [Output](AI_LAB_EXPT/EXPT6/Output_6.jpeg) |
